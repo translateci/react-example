@@ -1,0 +1,10 @@
+{
+    "items_remaining_one": "{{ count }} élément restant",
+    "items_remaining_other": "{{ count }} éléments restants",
+    "Finish React Series": "Finir la série React",
+    "Go Grocery Shopping": "Aller au supermarché",
+    "Take over world": "Conquérir le monde",
+    "Add some todos...": "Ajoutez des tâches...",
+    "What do you need to do?": "Que devez-vous faire ?",
+    "Check All": "Tout cocher"
+}
