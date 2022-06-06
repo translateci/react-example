@@ -1,0 +1,4 @@
+{
+    "items_remaining_one": "{{ count }} item remaining",
+    "items_remaining_other": "{{ count }} items remaining"
+}
